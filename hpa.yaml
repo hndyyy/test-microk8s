@@ -17,4 +17,4 @@ spec:
         target:
           type: Utilization
           averageUtilization: 30
-  stabilizationWindowSeconds: 60 # Menunggu 60 detik sebelum scaling
+  stabilizationWindowSeconds: 0 # Menunggu 60 detik sebelum scaling
